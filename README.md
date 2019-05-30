@@ -1,2 +1,0 @@
-# Terraform
-Azure terraform repo
